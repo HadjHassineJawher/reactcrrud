@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "Name": "Name 1",
+      "Category": "Category 1",
+      "Author": "Author 1",
+      "Price": "10",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "Name": "Name 2",
+      "Category": "Category 2",
+      "Price": "20",
+      "Author": "Author 2"
+    },
+    {
+      "id": "3",
+      "Name": "Name 3",
+      "Category": "Category 3",
+      "Price": "30",
+      "Author": "Author 3"
+    },
+    {
+      "Name": "Name 4",
+      "Category": "Category 4",
+      "Author": "Author 4",
+      "Price": "40",
+      "id": "4"
+    },
+    {
+      "Name": "Name 5",
+      "Category": "Category 5",
+      "Author": "Author 5",
+      "Price": "50",
+      "id": "5"
+    }
+  ]
+}
